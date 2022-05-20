@@ -61,8 +61,8 @@ Then you can run the API using
 | Parameter  | Required    | Description |
 |    :---:   |    :---:    |    :----   |
 | q          | required    |A word or a incomplete word of the city that you want to search. |
-| latitude   | opcional    |A number of the latitude of the city that you want to search.    |
-| longitude   | opcional   |A number of the longitude of the city that you want to search.   |
+| latitude   | optional    |A number of the latitude of the city that you want to search.    |
+| longitude   | optional   |A number of the longitude of the city that you want to search.   |
 
 | Status Code | Description |
 |    :---:    |    :----   |
