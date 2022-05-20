@@ -23,10 +23,11 @@ Then you will see that ElasticSearch and Kibana are running.
 You need python3 to run this API.
 
 Next, you can create a virtual environment in the same folder that you downloaded:
-   1.- `pip3 install virtualenv`
-   2.- `virtualenv env`. You will now that you are in the environment because in your terminal propmt will have `(env)`.
-   3.- `source env/bin/activate`
-   4.- Install libraries:
+
+   1. `pip3 install virtualenv`
+   2. `virtualenv env`. You will now that you are in the environment because in your terminal propmt will have `(env)`.
+   3. `source env/bin/activate`
+   4. Install libraries:
       * `pip install elasticsearch==7.8`
       * `pip install Flask`
       
