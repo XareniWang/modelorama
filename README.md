@@ -55,7 +55,7 @@ Then you can run the API using
 
 * Request HOST: http://localhost:5000/search or http://127.0.0.1:5000/search
 * Method: GET
-* Path: ?q={city_name}&latitude={latitude}&longitude={longitude}
+* Path: `?q={city_name}&latitude={latitude}&longitude={longitude}`
 * Parameters
 
 | Parameter  | Required    | Description |
