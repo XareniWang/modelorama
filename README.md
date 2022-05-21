@@ -43,7 +43,7 @@ Then you can run the API using
 * Request HOST: http://localhost:5000/bulk or http://127.0.0.1:5000/bulk
 * Method: POST
 * Body: Its is a form-data with key `file` and value `cities-canda-usa.json` file.
- * Response:
+* Response:
 
 | Status Code | Description |
 |    :---:    |    :----   |
@@ -63,6 +63,8 @@ Then you can run the API using
 | q          | required    |A word or a incomplete word of the city that you want to search. |
 | latitude   | optional    |A number of the latitude of the city that you want to search.    |
 | longitude   | optional   |A number of the longitude of the city that you want to search.   |
+
+* Response:
 
 | Status Code | Description |
 |    :---:    |    :----   |
